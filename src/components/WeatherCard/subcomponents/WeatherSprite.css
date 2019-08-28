@@ -1,0 +1,11 @@
+.WeatherSprite-icon {
+    position: relative;
+}
+
+.WeatherSprite-horizontal-align {
+    height: 60%;
+    float: left;
+    top: 50%;
+    transform: translateY(-50%);
+    padding: 3%;
+}

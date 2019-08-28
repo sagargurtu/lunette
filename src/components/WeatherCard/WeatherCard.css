@@ -1,0 +1,21 @@
+.WeatherCard-container {
+    border-radius: 1.5em;
+    padding-left: 1%;
+    padding-right: 1%;
+}
+
+.WeatherCard-light-mode {
+    background-color: #ffffff;
+}
+
+.WeatherCard-dark-mode {
+    background-color: #222222;
+}
+
+.WeatherCard-light-shadow {
+    box-shadow: 0 0 12px 1px #ededed;
+}
+
+.WeatherCard-dark-shadow {
+    box-shadow: 0 0 12px 1px #424242;
+}

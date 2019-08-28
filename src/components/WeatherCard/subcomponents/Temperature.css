@@ -1,0 +1,39 @@
+@import url('https://fonts.googleapis.com/css?family=Source+Sans+Pro&display=swap');
+
+.Temperature-container {
+    position: relative;
+}
+
+.Temperature-horizontal-align {
+    float: right;
+    top: 50%;
+    transform: translateY(-50%);
+    padding: 2%;
+}
+
+.Temperature-light-mode {
+    color: #444444;
+}
+
+.Temperature-dark-mode {
+    color: #eeeeee;
+}
+
+.Temperature-value {
+    font-family: 'Source Sans Pro', sans-serif;
+    font-weight: bold;
+    font-size: 5em;
+    vertical-align: top;
+}
+
+.Temperature-degree {
+    font-family: 'Source Sans Pro', sans-serif;
+    font-weight: bold;
+    font-size: 3em;
+}
+
+.Temperature-unit {
+    font-family: 'Source Sans Pro', sans-serif;
+    font-weight: bold;
+    font-size: 2.5em;
+}
