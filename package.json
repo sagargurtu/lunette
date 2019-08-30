@@ -1,7 +1,7 @@
 {
   "name": "lunette",
   "version": "0.1.0",
-  "description": "A free and modern React UI Component library",
+  "description": "A UI toolkit with configurable and modern components for building React apps and websites",
   "author": "Sagar Gurtu <gurtusagar@gmail.com>",
   "license": "MIT",
   "main": "build/lunette.js",
