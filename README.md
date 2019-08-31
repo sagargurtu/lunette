@@ -73,7 +73,7 @@ For any issues, enhancements or new component requests, please use our [issue tr
 
 ### Attributions
 
-Icon made by [iconixar](https://www.flaticon.com/authors/iconixar) from [Flaticon](www.flaticon.com).
+Weather icons made by [iconixar](https://www.flaticon.com/authors/iconixar) from [Flaticon](www.flaticon.com).
 
 ## License
 
