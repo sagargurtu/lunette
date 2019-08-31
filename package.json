@@ -1,6 +1,6 @@
 {
   "name": "lunette",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "A UI toolkit with configurable and modern components for building React apps and websites",
   "author": "Sagar Gurtu <gurtusagar@gmail.com>",
   "license": "MIT",
