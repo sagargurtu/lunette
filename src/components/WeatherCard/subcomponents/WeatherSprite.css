@@ -1,11 +1,32 @@
-.WeatherSprite-icon {
+.WeatherSprite-container {
     position: relative;
 }
 
+.WeatherSprite-light-mode {
+    color: #444444;
+}
+
+.WeatherSprite-dark-mode {
+    color: #eeeeee;
+}
+
+.WeatherSprite-icon {
+    position: relative;
+    display: block;
+    margin: auto;
+    padding: 0.5em;
+    width: 4em;
+}
+
 .WeatherSprite-horizontal-align {
-    height: 60%;
     float: left;
-    top: 50%;
-    transform: translateY(-50%);
-    padding: 3%;
+    padding: 0 1%;
+}
+
+.WeatherSprite-forecast {
+    position: relative;
+    font-weight: 500;
+    font-size: 0.75em;
+    text-align: center;
+    width: 7em;
 }

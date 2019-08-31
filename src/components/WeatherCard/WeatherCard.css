@@ -1,7 +1,13 @@
+@import url('https://fonts.googleapis.com/css?family=Quicksand:300,400,500,600,700&display=swap');
+
 .WeatherCard-container {
-    border-radius: 1.5em;
-    padding-left: 1%;
-    padding-right: 1%;
+    font-family: 'Quicksand', sans-serif;
+    border-radius: 1em;
+    padding: 10px;
+    display: flex;
+    flex-direction: column;
+    flex-wrap: nowrap;
+    justify-content: center;
 }
 
 .WeatherCard-light-mode {
@@ -18,4 +24,14 @@
 
 .WeatherCard-dark-shadow {
     box-shadow: 0 0 12px 1px #424242;
+}
+
+.WeatherCard-topContainer {
+    position: relative;
+    padding: 0.5em 0.5em 0 0.5em;
+}
+
+.WeatherCard-middleContainer {
+    position: relative;
+    padding: 0.5em;
 }

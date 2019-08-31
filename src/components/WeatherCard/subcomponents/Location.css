@@ -1,0 +1,18 @@
+.Location-container {
+    position: relative;
+    font-weight: 500;
+    font-size: 1em;
+}
+
+.Location-horizontal-align {
+    float: left;
+    width: 80%;
+}
+
+.Location-light-mode {
+    color: #444444;
+}
+
+.Location-dark-mode {
+    color: #eeeeee;
+}

@@ -22,7 +22,7 @@
 
 ## Getting started
 
-Lunette is still in early development stages. New components are being continously added.
+Lunette is still in early development stages. New components are being continuously added.
 
 ### Demo
 
@@ -53,8 +53,15 @@ function App() {
           temperature={70}
           unit='f'
           mode='dark'
-          forecast='scattered_thunderstorms'
-          timeofday='night' />
+          forecast='haze'
+          timeofday='night'
+          location='Current Location'
+          datetime='July 4th, 10:00PM'
+          style={{
+            'height': '170px',
+            'width': '300px',
+            'fontSize': '16px'
+          }} />
 }
 
 ReactDOM.render(<App />, document.querySelector('#app'));
@@ -63,6 +70,10 @@ ReactDOM.render(<App />, document.querySelector('#app'));
 ## Contributing
 
 For any issues, enhancements or new component requests, please use our [issue tracker](https://github.com/sagargurtu/lunette/issues).
+
+### Attributions
+
+Icon made by [iconixar](https://www.flaticon.com/authors/iconixar) from [Flaticon](www.flaticon.com).
 
 ## License
 
